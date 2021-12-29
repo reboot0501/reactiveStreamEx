@@ -1,0 +1,7 @@
+logging:
+  pattern:
+    console: "[%d{HH:mm:ss.SSS}][%t] - %msg%n"
+  level:
+    root: debug
+    org:
+      springframework: debug
